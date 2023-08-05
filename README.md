@@ -46,5 +46,9 @@ __Install Dependencies:__ Run pip install pandas numpy matplotlib scikit-learn.<
 __Execute the Script:__ Run python main.py.<br>
 __View Results:__ Check the terminal for evaluation metrics for Logistic Regression and Random Forest models. The ROC curves will be displayed in separate windows.
 
+## License
+
+This project is open-source and available under the MIT License. See the `LICENSE` file for more details.
+
 
 

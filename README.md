@@ -23,7 +23,7 @@ __Accuracy:__ 75.00%<br>
 __Precision:__ 82.14%<br>
 __Recall:__ 67.65%<br>
 __F1 Score:__ 74.19%<br>
-__AUC:__ 0.8179<br>
+__AUC:__ 81.79%<br>
 ![ROC Curve for Logistic Regression](roc_curves/roc_curve_logistic_regression.png)
 
 ### Random Forest:<br>
